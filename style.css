@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.background-img{
+    background-image: url(images/pexels-lukas-574070.jpg);
+    background-size: cover;
+    padding: 5% 25% 45% 10%;
+}
+.background-img-two{
+    background-image: linear-gradient(#FAD397,black);
+ padding: 30%;
+}
+
+div{
+    margin-right: 30%;
+}
+.background-img-three{
+    background-image: url(images/pexels-iconcom-220618.jpg);
+    background-size: cover;
+    padding: 25% 5% 20% 45%;
+
+
+}
+.never{
+    padding-right:40%;
+}
+.background-img-four{
+    background-image: linear-gradient(black,red);
+    padding: 30%;
+}
