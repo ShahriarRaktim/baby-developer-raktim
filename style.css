@@ -8,7 +8,7 @@ body{
 }
 .background-img-two{
     background-image: linear-gradient(#FAD397,black);
- padding: 30%;
+ padding: 10%;
 }
 
 div{
@@ -17,14 +17,16 @@ div{
 .background-img-three{
     background-image: url(images/pexels-iconcom-220618.jpg);
     background-size: cover;
-    padding: 25% 5% 20% 45%;
+    padding: 10% 0 40% 45%;
 
 
 }
 .never{
-    padding-right:40%;
+    color: #FAD397;
+    margin-left: 40%;
+    margin-right: 5%;
 }
 .background-img-four{
     background-image: linear-gradient(black,red);
-    padding: 30%;
+    padding: 10%;
 }
