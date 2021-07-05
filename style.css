@@ -8,7 +8,11 @@ body{
 }
 .background-img-two{
     background-image: linear-gradient(#FAD397,black);
- padding: 10%;
+    padding-left: 50%;
+    padding-bottom: 10%;
+    padding-top: 2%;
+    padding-right: 2%;
+    
 }
 
 div{
@@ -29,4 +33,25 @@ div{
 .background-img-four{
     background-image: linear-gradient(black,red);
     padding: 10%;
+}
+.container{
+    display: flex;
+    background-color: black;
+}
+.half-width{
+    width: 50%;
+    color: darksalmon;
+    padding-left: 5%;
+    padding-top: 5%;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+.half-width img{
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 0;
+}
+.mgn{
+    margin-top: 50%;
+    margin-bottom: 5%;
 }
